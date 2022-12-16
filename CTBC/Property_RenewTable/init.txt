@@ -1,4 +1,0 @@
-變更保管人Excel路徑:C:\Users\昱竹\Desktop\Property_RenewTable\變更保管人清單.xlsx
-總務清單系統:http://assetmgt.ctbcbank.com/Default.aspx?ReturnUrl=%2f
-帳號:z00044060
-密碼:0602Love0113@

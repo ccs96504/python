@@ -1,1 +1,0 @@
-'ReadExcel' object has no attribute 'weakless'
