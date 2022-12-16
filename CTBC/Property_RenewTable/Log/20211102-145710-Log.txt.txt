@@ -1,0 +1,5 @@
+Alert Text: 產編[10143769 (子編號:0000)]，已在變更保管人申請單[D-2021110035]審核中 
+
+Message: unexpected alert open: {Alert text : 產編[10143769 (子編號:0000)]，已在變更保管人申請單[D-2021110035]審核中 
+}
+  (Session info: chrome=95.0.4638.69)

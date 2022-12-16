@@ -1,0 +1,26 @@
+Alert Text: 產編[10491502 (子編號:0000)]，已在變更保管人申請單[D-2021100390]審核中 
+
+Message: unexpected alert open: {Alert text : 產編[10491502 (子編號:0000)]，已在變更保管人申請單[D-2021100390]審核中 
+}
+  (Session info: chrome=94.0.4606.81)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0031B9D3+2472403]
+	Ordinal0 [0x002B6961+2058593]
+	Ordinal0 [0x001C22B8+1057464]
+	Ordinal0 [0x0021479B+1394587]
+	Ordinal0 [0x0020545B+1332315]
+	Ordinal0 [0x001E1FB4+1187764]
+	Ordinal0 [0x001E2E09+1191433]
+	GetHandleVerifier [0x004A3396+1551078]
+	GetHandleVerifier [0x0054D53A+2247818]
+	GetHandleVerifier [0x003A7FBB+521995]
+	GetHandleVerifier [0x003A7079+518089]
+	Ordinal0 [0x002BBD4D+2080077]
+	Ordinal0 [0x002BFC18+2096152]
+	Ordinal0 [0x002BFD52+2096466]
+	Ordinal0 [0x002C94B1+2135217]
+	BaseThreadInitThunk [0x75F4FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77E97A9E+286]
+	RtlGetAppContainerNamedObjectPath [0x77E97A6E+238]
+	(No symbol) [0x00000000]

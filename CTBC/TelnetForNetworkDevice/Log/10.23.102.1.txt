@@ -1,0 +1,13 @@
+: tw03077208z00044060
+Password: 
+
+TW-TPE-0015-BRCH-FR-2911-1#ter len 0
+TW-TPE-0015-BRCH-FR-2911-1#show inventory
+NAME: "CISCO2911/K9 chassis", DESCR: "CISCO2911/K9 chassis"
+PID: CISCO2911/K9      , VID: V07 , SN: FGL202510M3
+
+NAME: "C2911 AC Power Supply", DESCR: "C2911 AC Power Supply"
+PID: PWR-2911-AC       , VID: V05 , SN: DCA2015R5NP
+
+
+TW-TPE-0015-BRCH-FR-2911-1#
