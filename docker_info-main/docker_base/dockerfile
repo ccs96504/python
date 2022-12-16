@@ -1,0 +1,14 @@
+# 建置最基礎的image也就是python3.8.10
+FROM python:3.8.10
+
+# 定義當前的目錄位置
+WORKDIR /api_learn
+
+#將資料夾檔案複製到/api_learn底下
+COPY . /api_learn
+
+#到contain底下執行 pip install -r requirements.txt
+RUN pip install -r requirements.txt
+
+# 環境部屬完成後,直接執行python app.py
+CMD ["python","app.py"]
