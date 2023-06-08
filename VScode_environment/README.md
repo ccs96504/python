@@ -45,3 +45,6 @@ Vscode ==> Ctrl+P ==> '>Python: Select Interpreter'
 ```
 pip freeze > requirements.txt   
 ```
+```
+pip install -r requirements.txt
+```
