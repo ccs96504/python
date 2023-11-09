@@ -24,11 +24,11 @@ def singleList_combine_multipleList_to_dict():
 
 ### Tuple -> List -> dict
 
-return_data = (['0','123','456','789'], Ture)
+return_data = (['0','123','456','789'], 'Ture')
 def asign_to_dict():
       #get_return_data_for_list
       data = return_data[0]
-      dict = {id:data[0],data[i] for i in range(1,len(data))}
+      dict = {id:[data[0],data[i]] for i in range(1,len(data))}
       
       
 
